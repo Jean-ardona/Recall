@@ -3,7 +3,7 @@ doc: prd
 status: approved
 ---
 
-# QuizGen — Product Requirements
+# Recall — Product Requirements
 
 A web app for students: upload your study notes or a PDF, pick a question count, and get a multiple-choice quiz you can take immediately — with questions that come from your document.
 Source: `scope.md > The Unique Kernel`, `scope.md > Who It's For`.

@@ -3,7 +3,7 @@ doc: scope
 status: approved
 ---
 
-# QuizGen — Notes-to-Quiz App
+# Recall — Notes-to-Quiz App
 
 Paste your study notes, pick a question count, get a multiple-choice quiz you can take right now.
 
